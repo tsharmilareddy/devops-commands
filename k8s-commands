@@ -1,0 +1,13 @@
+Kubectl get po—-to know the pods list
+Kubectl get nodes—-to know the nodes list
+Kubectl get ns—to know the namespace list
+Kubectl get svc—to know the services
+Kubectl get deployment—to get deployment list
+Kubectl get replica set—to get replica set list
+Kubectl get sa—to get the list of the service accounts
+Kubectl apply -f deploy.yaml -n namespace—to create or run pod inside namespace
+Kubectl get po -A wide—-to know the list of  all pods in all name spaces
+Kubectl exec -it <pode id> sh—to login into the pod
+Kubectl describe pod id—to check the details of the pod
+Kubectl create ns namespace name—to create namespace
+
