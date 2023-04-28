@@ -1,0 +1,14 @@
+git init---it will create empty repo in local
+git add---to add files from working area to staging area/tracked
+git commit---add files to local repository and generate commitid
+git push--push code from local repo to remote repo
+git clone--bring the existing code from remote repo to local
+git checkout -b  branch ---to create new branch and automatically swith branch
+git checkout -d branch --delete branch
+git log--to see commits
+git show--to see changes in commit
+git status--to see working status
+    git config
+    ==========
+git config user.name "sharmi"
+git config user.email "sharmi@gmail.com
