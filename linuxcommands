@@ -1,0 +1,39 @@
+ Pwd —- to know the current location
+ Date —-- to know the time
+ Hostname — to know server name
+ History—-to know all i have did previous commands
+ Ls —--to know the list of the folders
+ Ls -l —- to know the detailed information
+ Ls -la—-to know the original files and hidden files
+ lsblk—-- to list all the block devices in the linux machine
+ df -h —-to see mounted volumes
+ Mkdir—to create a folder
+ Touch—to create a file
+ Free -m —--to check memory usage
+ Last—to know all last users login
+ Ls -l *.pem—to check all pem files
+ Ls -ltr *.pem—to get pem files old to latest
+ Ll—-to display all the folders list
+ Id username—-to check whether user is their ar not 
+ Useradd name—-to add a user
+ Uname—-to know which type of ami used
+ Uname -a—to get clear details
+ Rm -fr folder name— remove folder
+ Chmod 400—to give only read permissions to that file
+ Chmod 755—-to give permissions(read,write,execute) to the file
+ Telnet ip port number—-service port open or not
+ Nc -vz ip port number—service port open or not
+ Wget— it will download any kind of packages
+ Whoami—to know the current user
+ Who am i—--first which user logged in
+ Traceroute—to know the path from ec2 to local
+ Su - — switch to one user to another user
+ Cat — to know the file content
+ Curl — testing purpose
+ Ssh-keygen—to generate new ssh-key
+ Kill -9 process id — to kill the app
+ Kill -3 process id — to kill the app
+ Tail filename —---it gives the latest 10 lines in that file
+ Tail -f filename—-it gives the latest files
+ Tail -5f filename —- it give latest 5 files
+
