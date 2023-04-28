@@ -1,0 +1,6 @@
+ aws s3 cp app.zip s3://bucketname/app.zip ------ local to s3
+ aws s3 cp s3://buckername/app.zip .  ----- it will download package from s3
+ aws sts get-caller-identity---it will give credentials  
+ aws configure --here we will give acess key/secreate key
+ aws s3 ls -- to list s3 bucketnames
+ aw s3 ls s3://bucket_name/ ----here we will see bucket content 
